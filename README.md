@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Online-Restraunt-Management-System**
+- 🔭 I’m currently working on **NewsPaper-Web-App**
 
 - 🌱 I’m currently learning **Backend Development, API Integrations & AI**
 
