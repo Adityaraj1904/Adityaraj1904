@@ -12,11 +12,13 @@
 
 - 🌱 I’m currently learning **Backend Development, API Integrations & AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Adityaraj1904](https://github.com/Adityaraj1904)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Adityaraj1904)**
 
 - 💬 Ask me about **Full-Stack Web Development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/aditya-raj-7a8a66276**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aditya-raj-7a8a66276)**
+
+- 🌍 Visit my portfolio: **[Portfolio](https://adityaraj19.netlify.app/)**
 
 - ⚡ Fun fact **I love creating interactive, modern websites with smooth animations and seamless user experiences.**
 
